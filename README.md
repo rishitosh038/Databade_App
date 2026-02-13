@@ -38,7 +38,7 @@ README.md
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Open terminal in the project directory
 2. Run:
@@ -68,7 +68,7 @@ Columns:
 
 ---
 
-## 📌 Features Implemented
+## Features Implemented
 
 ✔ Database connection using sqlite3  
 ✔ Table creation with CREATE TABLE  
